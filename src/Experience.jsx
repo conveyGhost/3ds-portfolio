@@ -199,7 +199,7 @@ export default function Experience({ started, onToggleNav }) {
               rotation-x={-0.256}
               style={{ opacity }}
             >
-              <iframe src="https://ingemar.vercel.app" />
+              <iframe src="" />
             </Html>
 
             {/* Text Elements */}
